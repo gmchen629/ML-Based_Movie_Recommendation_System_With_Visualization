@@ -58,4 +58,3 @@ We have already pre-trained the recommendation data, so you just need to install
 
 2. Recommendation from music is NOT available. # Future improvement
 
--------------------------------
